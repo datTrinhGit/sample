@@ -4,14 +4,7 @@
       "id": 1,
       "title": "hello dattd"
     }
-  ],
-  "gets": [
-    {
-      "id": 1,
-      "title": "Ha noi"
-    }
-  ],
-  
+  ],  
   "profile": {
     "name": "typicode"
   }
