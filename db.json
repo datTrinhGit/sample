@@ -4,7 +4,13 @@
       "id": 1,
       "title": "hello dattd"
     }
-  ],  
+  ],
+  "gets": [
+    {
+      "id": 1,
+      "title": "hello dattd"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
