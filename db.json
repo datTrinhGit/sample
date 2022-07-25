@@ -5,12 +5,13 @@
       "title": "hello"
     }
   ],
-  "gets": [
+  "posts": [
     {
       "id": 1,
-      "title": "Hà Nội"
+      "title": "Ha noi"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   }
